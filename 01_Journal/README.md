@@ -1,14 +1,9 @@
 # 01_Journal
+## Phase 1: The Journalist
+### Chapter 1: The Science of Storytelling
 
-Your weekly reading reflections. **These get committed and read.**
+This chapter covered many ideas based on research, data, and how they can vary in presenting their ideas. An idea that stood out to me in this reading was the difference between an anecdote, a sample, and a population. The example of Bob Ross's Twitch channel made this distinction clear. Bob Ross averaged 3,178 concurrent viewers, while xQc averaged 17,363 concurrent viewers during the same week. These numbers might tempt someone to make broad claims about the differences in audiences responses to arts streams compared to gaming streams. However, Bob Ross and the xQc are only individual examples. They can illustrate a possible pattern but cannot prove that the pattern applies across Twitch. A defensible claim would require examining the larger working corpus or population while considering other variables that might influence viewership and chat behavior. 
 
-One file per week. Start from `_templates/journal-entry.md`, and name files so they sort
-in order:
+This connects to media analysis because it is easy to use one powerful example as evidence for a much larger argument. An emotional interview, viral post, or unusually popular stream can make a claim feel true even when it is not representative. The reading's statement that "anecdotes generate hypothesis" while "date test them" helped me Better understand how storytelling and research can work together. A specific example can make a research project interesting and relatable, but broader data are needed to determine whether the example represents an actual pattern.
 
-```
-week-01-what-counts-as-evidence.md
-week-02-curiosity-and-trust.md
-```
-
-250 to 300 words. Pick one thinking path (Connector, Troubleshooter, or Critic) and stay
-in it. A summary of the reading is not a reflection.
+I am still somewhat skeptical when comparing the research process so closely to a story. Framing data analysis as the climax could make researchers feel pressured to find an exciting or statistically significant result. Sometimes the most honest result is that no meaningful pattern exists. Still, the comparison is useful because it shows that both stories and research build explanations. The important difference is that researchers must be willing to revise or abandon their explanations when the evidence does not support them. 
