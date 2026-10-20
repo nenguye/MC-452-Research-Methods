@@ -1,1 +1,11 @@
+# 09_Journal
+## Phase 3: The Builder
+### Chapter 9: The rulebook and first workspace
 
+Chapter 9 focuses on the transition from planning a study to examining the date it will actually use. What stood out to me was the idea that loading data and analyzing it are separate steps. Functions like glimpse(), count(), and n_distinct() help researchers understand the columns, categories, and scope of a dataset before changing anything. I learned that this initial inspection could reveal whether the date supports the study we have spent so much time designing. 
+
+The examples of repeated phrases and messages containing only question marks made this point clearer. These messages might look useless at first, but they are part of how people communicate on Twitch. Their presence does not automatically make them errors. This made me question how easily a researcher could remove something unusual simply because it does not fit their expectations. 
+
+Another important idea was that the codebook becomes an official document while remaining open to revision. Giving it a version and date makes the rules traceable, but testing those rules can still expose problems. The difference between “@xQcOW” and “xqcow” shows how a small detail could affect coding consistency. I also learned that the qualitative memo should explain the observations behind the categories, making the connection between watching and measuring visible. 
+
+For my project, these lessons mean checking what the comments express before assuming my categories fit. A vague joke or emoji may not clearly communicate trust of purchase interest. I need rules that acknowledge that uncertainty and a record of why I make coding decisions.
