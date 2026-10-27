@@ -1,0 +1,11 @@
+# 10_Journal
+## Phase 4: The Analyst
+### Chapter 10: The Sample 
+
+Something that stood out to me in this chapter was that a codebook can seem clear when I write it but still produce inconsistent results when someone uses it. For my project on privacy and user trust in, I have developed rules for identifying attitudes in comments. However, knowing what I indeed a category to mean does not guarantee that the written definition communicates it clearly. 
+
+The "high-energy" example helped explain this problem. One coder looked for emotes while another looked for capitalized words. Both interpretations seemed reasonable, but they measured different things. I could see something similar happening with my variables for privacy concerns and perceived intrusiveness. A comment like “Why is this following me everywhere?” might suggest both, but I need rules explaining what evidence supports each code. Otherwise, I might classify similar comments differently depending on how I interpret them that day.
+
+I also found the difference between raw agreement and Cohen’s kappa surprising. Agreeing on 74 percent of messages initially sounds convincing, but the kappa of 0.236 showed how much agreement could happen by chance. This made me realize that a reassuring percentage does not necessarily mean my codebook works.
+
+Since I am working independently, I would use a stability check by coding a small subset twice, at least 48 hours apart, while keeping my first codes hidden. If the results differ, the useful question is what allowed the disagreement in the written rules. I would revise those rules and test them on fresh comments. This chapter helped me see the pilot as a chance to find problems early, before those problems affect the entire study.
