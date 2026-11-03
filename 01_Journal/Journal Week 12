@@ -1,1 +1,9 @@
+# 12_Journal
+## Phase 4: The Analyst
+### Chapter 12: Visualizing the Narrative 
 
+Chapter 12 helped me decide how I’ll present the results of my study. The Twitch example showed how much the choice of a summer can changer what a reader takes away. Non-gaming messages averaged about five characters more than gaming messages, but the medians were only one character apart. The histogram helped me see why those numbers told different stories. Mos messages in both groups were short, and a small share of long messages pulled the non-gaming average up. If I had only seen the means, I probably would have assumed that the typical non-gaming messages was longer. 
+
+The cross-tabulation example applies directly to my question about how privacy concern appears alongside purchase interest or reluctance. I could put privacy concern codes in the rows and purchase interest codes in the columns. If one group has many more comments than another, I'd rather report the counts and the percentages within each group. For example, comments expressing privacy concern could contain more instances of purchase reluctance simply because that group is larger. Comparing the percentage of reluctance is more common among comments that express concern. 
+
+I also liked the chapter’s point that writing alt text can test how clearly a figure communicates. If I turn the table into a bar chart, I’d label the categories directly and describe the main pattern in the alt text. I’d also keep my interpretation focused on what people expressed in the comments. If privacy concern and purchase reluctance appear together, I can describe how often they overlap in my sample. Whether concern about tracking actually caused someone to decide against buying would require different evidence.
