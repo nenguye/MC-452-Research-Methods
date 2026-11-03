@@ -1,1 +1,9 @@
+# 11_Journal
+## Phase 4: The Analyst
+### Chapter 11: Wrangling the Data
 
+Chapter 11 made me think about what happens between collecting comments and being able to answer my research questions. In the Twitch example, a message can come from a channel that mostly streams games even if the streamer is in Just Chatting when the message appears. Both labels can be accurate because they describe different things. I see a similar distinction in my project. Whether an ad discloses tracking is a feature of the ad, while whether a commenter expresses concern about tracking is a feature of the individual comment. Keeping those details separate will help me avoid assuming that every commenter noticed disclosure. 
+
+I can apply the chapter's approach by giving each sampled comment a unique ID and using that ID to link my coding sheet back to the original comment text. Each row would represent one comment, with separate columns for privacy concern, trust, perceived intrusiveness, and purchase interest. That structure would let me look at whether privacy concern appears alongside purchase interest or reluctance within the same comment.
+
+The chapter's discussion of missing values also made me think about how easily I could misread my own results. A blank cell because I haven't coded a comment yet has a different meaning from zero, I assigned after reading it. For example, a zero for purchase interest means the person expressed neither interest nor reluctance in that comment. Before summarizing the codes, I would check that each sampled comment appears only once after the join and that each has a code for all four variables. That gives me a concrete way to catch missing or duplicated records before they affect the patterns I report.
