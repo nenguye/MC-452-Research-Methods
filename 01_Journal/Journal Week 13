@@ -1,1 +1,11 @@
+# 13_Journal
+## Phase 4: The Analyst
+### Chapter 13: Making the Call
 
+Chapter 13 made me question how much confidence researchers should place in a statistically significant result. In the Twitch study, gaming and non-gaming messages differed by about five characters, with a p-value below .001. That sounds important, but Cohen’s d was only 0.13, meaning the difference was small compared with the variation in message lengths. This showed me how reporting only a p-value can exaggerate a finding’s importance.
+
+The robustness check raised another question: how much does a result depend on the researcher’s definitions? When gaming status was based on each channel’s usual category, non-gaming messages were longer. When messages were classified by what was actually streaming, the difference reversed and was no longer statistically significant. Both definitions were reasonable, but they answered different questions. This makes me question conclusions that do not explain how categories were defined.
+
+This connects to my project on privacy concerns, trust, and purchase interest in advertising comments. My coding definitions determine what counts as evidence. For example, a complaint about a product does not automatically show distrust of advertising information. Combining those ideas could change the relationships I find.
+
+I also thought about how my comments come from a limited number of advertising posts. Many comments do not necessarily represent many independent contexts. I need to consider which posts they came from and avoid making broad claims about all consumers. The chapter reminded me that responsible interpretation requires explaining coding decisions, considering effect sizes, and keeping conclusions within the limits of the sample.
