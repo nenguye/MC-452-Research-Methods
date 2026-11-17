@@ -1,1 +1,11 @@
+# 14_Journal
+## Phase 4: The Analyst
+### Chapter 14: The one-click report
 
+Chapter 14 helped me understand how the separate assignments in my project fit together. My codebook, sampling plan, coded comments, and R analysis need to become one report that another person can follow. The IMRaD structure provides an order: why I asked my question, what I did, what I found, and what the findings mean.
+
+Reproducible publication connected directly to my experience with Quarto. During the data-wrangling assignment, I struggled to preview and render my document. At first, rendering seemed like another technical requirement. Now I understand that running the analysis inside the report keeps the results connected to the code. If I correct a coding decision, rendering can update tables and figures without requiring me to copy everything manually.
+
+However, a report that renders successfully is not automatically a strong study. The code might work while the definitions remain unclear or the conclusions go beyond the sample. For my advertising-comment project, I still need to explain how I identified privacy concerns, trust, and purchase interest. This is especially important when a comment has multiple possible interpretations. Reproducibility makes my process easier to check, but it cannot decide whether my interpretation is reasonable.
+
+I also appreciated the chapter’s explanation of reflection as evidence of judgment. Instead of saying the project was difficult, I can identify which coding rules needed clarification and what another coder might interpret differently. This would help me explain the study’s limitations and identify specific changes I would make if I repeated the project with a second coder.
